@@ -1,0 +1,5 @@
+# dataset directory
+dataset/
+
+# conda directory
+.conda
