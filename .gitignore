@@ -1,6 +1,5 @@
 # dataset directory
-dataset/
+dataset
 
 # conda directory
 .conda
-/dataset

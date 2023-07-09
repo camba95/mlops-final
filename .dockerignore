@@ -1,0 +1,14 @@
+# conda directory
+.conda
+
+# dvc directory
+.dvc
+
+# other files
+.DS_Store
+.dvcignore
+.git
+.gitignore
+dataset.dvc
+proyecto_final.ipynb
+README.MD
