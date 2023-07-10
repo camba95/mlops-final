@@ -4,6 +4,10 @@
 # dvc directory
 .dvc
 
+# mlflow directories
+mlartifacts
+mlruns
+
 # other files
 .DS_Store
 .dvcignore

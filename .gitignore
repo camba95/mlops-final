@@ -3,3 +3,7 @@ dataset
 
 # conda directory
 .conda
+
+# mlflow directories
+mlartifacts
+mlruns
